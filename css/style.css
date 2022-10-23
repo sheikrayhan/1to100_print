@@ -1,0 +1,20 @@
+/* Common CSS Start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Common CSS End */
+body{
+    background-color: rgb(155, 142, 142);
+}
+#odd_even h1{
+text-transform: capitalize;
+color: #cedaed;
+background-color: #111;
+text-align: center;
+height: 70px;
+padding: 10px;
+border: 2px solid rebeccapurple;
+border-radius: 10px;
+}
